@@ -1,22 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishnu Athistaraja</h1>
-<h3 align="center">A passionate Backend Java + PHP Developer from India</h3>
+<h3 align="center">Software Engineer and passionate Backend Java + PHP Developer from India</h3>
 
-- 🔭 I’m currently working on **Assessment Master**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **Spring boot and Micro services**
-
-- 🤝 I’m looking for help with **React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yeswecan2023](https://github.com/yeswecan2023)
-
-- 💬 Ask me about **Java and PHP**
-
+- 🔭 I’m currently working on **RM India**
+- 🌱 I’m currently learning **Startup Ecosystem in India**
+- 👯 I’m looking to collaborate on **React Native and Node JS**
 - 📫 How to reach me **realvish@gmail.com**
-
-- ⚡ Fun fact **I love bike ride**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishnu-athistaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-athistaraja" height="30" width="40" /></a>
