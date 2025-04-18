@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu Athistaraja</h1>
-<h3 align="center">Software Engineer and passionate Backend Java + PHP Developer from India</h3>
+<h3 align="center">An enthusiastic Software Engineer from India, specializing in Java Spring Boot Microservices</h3>
 
 - 🔭 I’m currently working on **RM India**
 - 🌱 I’m currently learning **Startup Ecosystem in India**
-- 👯 I’m looking to collaborate on **React Native and Node JS**
+- 👯 I’m looking to collaborate on **Spring Microservice and React Native**
 - 📫 How to reach me **realvish@gmail.com**
 
 
